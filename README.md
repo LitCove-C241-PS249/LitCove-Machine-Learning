@@ -1,5 +1,4 @@
-# LitCove-Machine-Learning
-
+# LitCove
 # Book Recommendation System
 
 Litcove is a book recommendation system that suggests books based on titles and genres. Using cosine similarity and Jaccard similarity, Litcove provides personalized book recommendations. The system is built using Python and Flask, and the dataset used is the Goodreads Best Books Ever dataset.
